@@ -21,6 +21,7 @@
 此项目是一款Oneband手环相配套的校园生活信息管理APP，目前主要针对上海交通大学。此项目由我和另外一名Android工程师共同开发。此项目在豌豆荚等各大应用市场上线。
 
 在此项目中我的核心工作内容大致有：
+
 1. 负责大部分UI代码编写，与设计师精确调UI，设计师要求精确到1px。
 2. 负责所有api的接入以及与后台人员交流。
 3. 负责记录运动数据部分与百度地图的连接使用。
@@ -35,6 +36,9 @@
 # 技能清单
 以下均为我熟悉使用的技能
 
+* Android自定义View
+* Android线程池
+* Android性能优化
 * 网络请求框架：volley / json
 * 图片加载框架：Imageloade / Fresco
 * Android开源组件：WheelView / Viewpagerindicator
